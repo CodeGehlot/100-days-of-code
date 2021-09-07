@@ -25,13 +25,13 @@ Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
 f-String - print(f”Hello {variable}”)
 Avoid float - Using // gets the whole number
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
 **Link to twitter:** [#100daysofcode challenge](http://www.example.com)
 
+---------------------------------------
 ### Day 2: September 7, 2021 
 
 **Today's Progress**: 
+
 *Comparision operators:*
 Greater than >
 Less than <
@@ -40,23 +40,28 @@ Less than equal to <=
 Not equal to !=
 Equal to ==
 
-Modulo operator %
+#Modulo operator %
 Gives the remainder
-If 4 / 2 is = 2 which gives no remainder than it is even number
-if 4/3 is = 3 x 1 + 1 which gives 1 as a remainder than it is odd number 
+If 4/x2 is = 2 which gives no remainder than it is even number.
+if 4/3 is = 3 x 1 + 1 which gives 1 as a remainder than it is odd number.
 
+#Multiple if statements
+Nested if statement (Like an inception)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+*Solving if else questions is easier when we prepare a flow chart. Create either on paper first or at draw.io website.*
+
+#Logical Operators -
+AND, OR and NOT
+
+**Thoughts**: Initially the project questions were difficult but after examining it again and again and later taking a break for a while and then coming up with step by step procedure, did the solution came correctly and code executed smoothly. Really when you get stuck, all you need it just take a break and come back later and you will have step by step solution on your own.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 3: September 8th, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
