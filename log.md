@@ -32,6 +32,19 @@ Avoid float - Using // gets the whole number
 ### Day 2: September 7, 2021 
 
 **Today's Progress**: 
+*Comparision operators:*
+Greater than >
+Less than <
+Greater than equal to >=
+Less than equal to <=
+Not equal to !=
+Equal to ==
+
+Modulo operator %
+Gives the remainder
+If 4 / 2 is = 2 which gives no remainder than it is even number
+if 4/3 is = 3 x 1 + 1 which gives 1 as a remainder than it is odd number 
+
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
