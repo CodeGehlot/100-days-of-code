@@ -14,16 +14,16 @@ Subscript - Pulling out a particular element from a string. “Hello”[0]
 Type check - type() it will show type of data
 
 *PEMDAS priority* - 
-Parentheses ()
-Exponents **
-Multiplication *
-Division /
-Addition +
-Subtraction -
+- Parentheses ()
+- Exponents **
+- Multiplication *
+- Division /
+- Addition +
+- Subtraction -
 
 Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
-f-String - print(f”Hello {variable}”)
-Avoid float - Using // gets the whole number
+- f-String - print(f”Hello {variable}”)
+- Avoid float - Using // gets the whole number
 
 **Link to twitter:** [#100daysofcode challenge](http://www.example.com)
 
@@ -33,25 +33,25 @@ Avoid float - Using // gets the whole number
 **Today's Progress**: 
 
 *Comparision operators:*
-Greater than >
-Less than <
-Greater than equal to >=
-Less than equal to <=
-Not equal to !=
-Equal to ==
+- Greater than >
+- Less than <
+- Greater than equal to >=
+- Less than equal to <=
+- Not equal to !=
+- Equal to ==
 
 #Modulo operator %
-Gives the remainder
-If 4/x2 is = 2 which gives no remainder than it is even number.
-if 4/3 is = 3 x 1 + 1 which gives 1 as a remainder than it is odd number.
+- Gives the remainder
+- If 4/x2 is = 2 which gives no remainder than it is even number.
+- if 4/3 is = 3 x 1 + 1 which gives 1 as a remainder than it is odd number.
 
 #Multiple if statements
-Nested if statement (Like an inception)
+- Nested if statement (Like an inception)
 
 *Solving if else questions is easier when we prepare a flow chart. Create either on paper first or at draw.io website.*
 
 #Logical Operators -
-AND, OR and NOT
+- AND, OR and NOT
 
 **Thoughts**: Initially the project questions were difficult but after examining it again and again and later taking a break for a while and then coming up with step by step procedure, did the solution came correctly and code executed smoothly. Really when you get stuck, all you need it just take a break and come back later and you will have step by step solution on your own.
 
