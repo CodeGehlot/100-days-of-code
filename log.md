@@ -1,18 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 6, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+
+**Day 1 - What I have learned today**
+Learned about printing, how to solve errors (Google)
+Using backslash - (\n) to use the next line inside the print statement.
+Input function - needs to have in variable so that the value can be stored inside the variable.
+Thonny - A software that will explain step by step, line by line of the code for a detailed explanation.
+Basic Data Types - String, Integer, Float, Boolean
+Subscript - Pulling out a particular element from a string. “Hello”[0]
+Type check - type() it will show type of data
+
+*PEMDAS priority* - 
+Parentheses ()
+Exponents **
+Multiplication *
+Division /
+Addition +
+Subtraction -
+
+Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
+f-String - print(f”Hello {variable}”)
+Avoid float - Using // gets the whole number
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to twitter:** [#100daysofcode challenge](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: September 7, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
