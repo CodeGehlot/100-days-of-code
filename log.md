@@ -55,13 +55,17 @@ Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
 
 **Thoughts**: Initially the project questions were difficult but after examining it again and again and later taking a break for a while and then coming up with step by step procedure, did the solution came correctly and code executed smoothly. Really when you get stuck, all you need it just take a break and come back later and you will have step by step solution on your own.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 3: September 8th, Wednesday
 
 **Today's Progress**: 
+Random Module and Python Lists
+-random.int and many more can be found from AskPython document.
+-List can have append, replace etc
+-nested list - list inside list
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Had fun doing few projects mixing with random module, lists, conditional operators and if-elif-else statement combinations.
 
-**Link(s) to work**
+**Thoughts**: Still needs to polish random module, other than that had fun creating Rock, paper, scissor game.
+
+**Link(s) to work** : [replit](https://replit.com/@Kooldp/rock-paper-scissors-start#main.py)
