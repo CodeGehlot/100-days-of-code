@@ -55,6 +55,7 @@ Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
 
 **Thoughts**: Initially the project questions were difficult but after examining it again and again and later taking a break for a while and then coming up with step by step procedure, did the solution came correctly and code executed smoothly. Really when you get stuck, all you need it just take a break and come back later and you will have step by step solution on your own.
 
+---------------------------------------
 
 ### Day 3: September 8th, Wednesday
 
