@@ -61,9 +61,9 @@ Round function - round(45.56, 2) or Format function "{:.2f}".format(int)
 
 **Today's Progress**: 
 Random Module and Python Lists
--random.int and many more can be found from AskPython document.
--List can have append, replace etc
--nested list - list inside list
+- random.int and many more can be found from AskPython document.
+- List can have append, replace etc
+- nested list: list inside list
 
 Had fun doing few projects mixing with random module, lists, conditional operators and if-elif-else statement combinations.
 
