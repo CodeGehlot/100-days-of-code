@@ -70,3 +70,18 @@ Had fun doing few projects mixing with random module, lists, conditional operato
 **Thoughts**: Still needs to polish random module, other than that had fun creating Rock, paper, scissor game.
 
 **Link(s) to work** : [replit](https://replit.com/@Kooldp/rock-paper-scissors-start#main.py)
+
+---------------------------------------
+
+### Day 4: September 9th, Thursday
+
+**Today's Progress**: 
+- For Loop
+- range 
+- random.choice, random.shuffle
+
+First two questions were easy to solve using all the previous lessons and for the last part of question 
+I was not able to come to terms so I looked into the solution and then it did make sense
+
+**Thoughts**: Will still come back to it and work on it again and try to make sense
+
