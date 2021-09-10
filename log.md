@@ -83,7 +83,7 @@ Had fun doing few projects mixing with random module, lists, conditional operato
 First two questions were easy to solve using all the previous lessons and for the last part of question 
 I was not able to come to terms so I looked into the solution and then it did make sense
 
-**Thoughts**: Will still come back to it and work on it again and try to make sense
+**Thoughts**: Will still come back to it and work on it again and try to make sense.
 
 ### Day 5: September 10th, Friday
 
@@ -91,3 +91,6 @@ I was not able to come to terms so I looked into the solution and then it did ma
 - Functions.
 - Code Blocks
 - While Loops
+- Indentation
+
+**Thoughts**: While I have understood how while loop works, but still needed to practice again and again with if-elif-else type of problems.
