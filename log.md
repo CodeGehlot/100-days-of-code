@@ -88,4 +88,6 @@ I was not able to come to terms so I looked into the solution and then it did ma
 ### Day 5: September 10th, Friday
 
 **Today's Progress**: 
-
+- Functions.
+- Code Blocks
+- While Loops
