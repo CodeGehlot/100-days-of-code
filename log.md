@@ -85,3 +85,7 @@ I was not able to come to terms so I looked into the solution and then it did ma
 
 **Thoughts**: Will still come back to it and work on it again and try to make sense
 
+### Day 5: September 10th, Friday
+
+**Today's Progress**: 
+
