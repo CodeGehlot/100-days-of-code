@@ -94,3 +94,7 @@ I was not able to come to terms so I looked into the solution and then it did ma
 - Indentation
 
 **Thoughts**: While I have understood how while loop works, but still needed to practice again and again with if-elif-else type of problems.
+
+**Link to Challenge Practice:** [Reeborg's World](https://reeborg.ca/)
+
+---------------------------------------
