@@ -98,3 +98,18 @@ I was not able to come to terms so I looked into the solution and then it did ma
 **Link to Challenge Practice:** [Reeborg's World](https://reeborg.ca/)
 
 ---------------------------------------
+
+### Day 6: September 11th, Thursday
+
+**Today's Progress**: 
+- Hangman Game
+- While Loop
+- Range 
+- Module
+
+For Module importing, we can also import like *import this* and then add *this.somethinginside*
+
+**Thoughts**: While loop can be scary. So condition has to be met if we want to use while loop. Other than that, had fun getting along with the 
+hangman guess game. Breaking down the problems and doing step by step and taking few breaks here and there is the best way to complete the project.
+
+---------------------------------------
